@@ -1,6 +1,9 @@
 # Smart Public Grievance System (SPGS) — India
 ### Real-Time Civic Grievance Redressal, Officer Workflow & Analytics Platform
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/iamanaypatel/smart-public-grievance-system)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/iamanaypatel/smart-public-grievance-system)
+
 SPGS is a modern, responsive, secure full-stack civic-tech web application designed for transparent, accountable, and time-bound civic grievance redressal in India. It is engineered from first principles for college innovation competitions, live hackathon evaluations, and scalable production deployment.
 
 ---
